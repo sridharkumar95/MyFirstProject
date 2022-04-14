@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SystrayPOC
 {
-    internal class Class2
+    internal class Class1
     {
     }
 }
