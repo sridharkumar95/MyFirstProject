@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace SystrayPOC
+namespace SystemTrayApp.WPF
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
